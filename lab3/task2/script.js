@@ -13,4 +13,4 @@ function updateCount() {
 function addItem() {
     const itemText = itemInput.value.trim();
 
-
+}
